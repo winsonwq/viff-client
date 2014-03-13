@@ -1,0 +1,22 @@
+{
+  "name": "viff-client",
+  "version": "0.0.1",
+  "description": "viff testing framework client",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/winsonwq/viff-client.git"
+  },
+  "keywords": [
+    "testing",
+    "viff"
+  ],
+  "author": "Wang Qiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winsonwq/viff-client/issues"
+  },
+  "homepage": "https://github.com/winsonwq/viff-client"
+}
