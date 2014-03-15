@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "viff testing framework client",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/winsonwq/viff-client.git"
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/winsonwq/viff-client/issues"
   },
-  "homepage": "https://github.com/winsonwq/viff-client"
+  "homepage": "https://github.com/winsonwq/viff-client",
+  "dependencies": {
+    "request": "^2.34.0"
+  }
 }
