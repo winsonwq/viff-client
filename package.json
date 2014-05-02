@@ -1,6 +1,6 @@
 {
   "name": "viff-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "viff testing framework client",
   "main": "index.js",
   "scripts": {},
